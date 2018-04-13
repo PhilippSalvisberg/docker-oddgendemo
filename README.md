@@ -1,3 +1,6 @@
+# DEPRECATION NOTICE
+This project has been deprecated in favor of the [docker-odb](https://github.com/PhilippSalvisberg/docker-odb). This repository will not be updated anymore.
+
 # oddgen Demo using an Oracle Database 12.2.0.1 Enterprise Edition
 
 ## Content
